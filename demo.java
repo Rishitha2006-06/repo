@@ -5,7 +5,7 @@ public class demo{
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Enter age: ");
-        int age = sc.nextInt();
+        int age = 20;
 
         if (age < 0) {
             System.out.println("Invalid age.");
